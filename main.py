@@ -1,6 +1,7 @@
 # *args = parameters that will all arguments into a tuple
 #         so function can accept a varying amount of arguments
 #################################################################
+# Author : Fransiskus Agapa
 
 def add(*arg):
     adds = 0
